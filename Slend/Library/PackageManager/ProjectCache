@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638981894203055083
-    m_Hash: 4032529006
+      ticks: 638987953852292729
+    m_Hash: 133259181
   m_LockFileStatus:
     m_FilePath: C:/Users/ByteSchool_10/Documents/GitHub/Slendarman/Slend/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638981894205378886
-    m_Hash: 2211224860
+      ticks: 638987953852292729
+    m_Hash: 4161978262
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
